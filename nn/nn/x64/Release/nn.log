@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\Intrigger\source\repos\nn\nn\Source.cpp(46,13): warning C4244: инициализация: преобразование "const double" в "float", возможна потеря данных
+C:\Users\Intrigger\source\repos\nn\nn\Source.cpp(60,13): warning C4244: инициализация: преобразование "const double" в "float", возможна потеря данных
+C:\Users\Intrigger\source\repos\nn\nn\Source.cpp(168,8): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Intrigger\source\repos\nn\nn\Source.cpp(183,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Intrigger\source\repos\nn\nn\Source.cpp(190,9): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Intrigger\source\repos\nn\nn\Source.cpp(220,11): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Intrigger\source\repos\nn\nn\Source.cpp(249,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Intrigger\source\repos\nn\nn\Source.cpp(333,37): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Intrigger\source\repos\nn\nn\Source.cpp(266,9): warning C4101: input: неиспользованная локальная переменная
+  Создание кода
+  1 of 188 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  nn.vcxproj -> C:\Users\Intrigger\source\repos\nn\x64\Release\nn.exe
